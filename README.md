@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on [nsfw-detection](https://github.com/amshrbo/nsfw-detection)
 
-- 👨‍💻 All of my projects are available at [My GitHub profile](My GitHub profile)
+- 👨‍💻 All of my projects are available  [here on GitHub](https://github.com/amshrbo)
 
 - 💬 Ask me about **#ml #dl #linux #computer_vision #software_development**
 
 - 📫 reach me through email: **amshrbo@gmail.com**
 
-- 📄 Know about my experiences [through out my linked in profile.](through out my linked in profile.)
+- 📄 Know about my experiences [through out my linked in profile.](https://www.linkedin.com/in/amshrbo)
 
 - 🤝 I’m looking for someone to mentor me, **so please reach out if you wanna help.**
 
