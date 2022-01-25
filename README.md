@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available  [here on GitHub](https://github.com/amshrbo)
 
-- 💬 Ask me about **#ml #dl #linux #computer_vision #software_development**
+- 💬 Ask me about ***#software_development, #python, #DevOps, #linux, #docker***
 
 - 📫 reach me through email: **amshrbo@gmail.com**
 
