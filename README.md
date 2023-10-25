@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amshrbo&label=Profile%20views&color=0e75b6&style=flat" alt="amshrbo" /> </p>
 
-- 🌱 I’m currently open to new opportunities **(freelancing, internships, full or part time positions)**
+- 🌱 I’m currently open to new opportunities **(freelancing, full or part time positions)**
 
 - 👨‍💻 All of my projects are available  [here on GitHub](https://github.com/amshrbo)
 
